@@ -6,3 +6,7 @@ Windows 10 系统优化&amp;精简
 
 
 ![image](https://user-images.githubusercontent.com/43743875/128751075-ac7e01e6-2baa-4b3e-90fa-62f369d37050.png)
+
+# 关于APPX卸载
+常规方式无法卸载的内置APPX应用程序  
+卸载方式请参考[这里](https://leslieyon.gitbook.io/notes/Windows/tong-guo-xiu-gai-nei-zhi-shu-ju-ku-wan-mei-shan-chu-win10-nei-zhi-ying-yong)：
