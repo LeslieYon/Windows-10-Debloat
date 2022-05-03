@@ -1,0 +1,97 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\CLSID\{A929C4CE-FD36-4270-B4F5-34ECAC5BD63C}]
+
+[-HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\NvAppShExt]
+
+[-HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\NvAppShExt]
+
+[-HKEY_CLASSES_ROOT\Nv3DAppShExt.NvAppShExt]
+
+[-HKEY_CLASSES_ROOT\Nv3DAppShExt.NvAppShExt.1]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\exefile\ShellEx\ContextMenuHandlers\NvAppShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\lnkfile\ShellEx\ContextMenuHandlers\NvAppShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Nv3DAppShExt.NvAppShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Nv3DAppShExt.NvAppShExt.1]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved]
+;NvAppShExt extension
+"{A929C4CE-FD36-4270-B4F5-34ECAC5BD63C}"=-
+;OpenGLShExt extension
+"{E97DEC16-A50D-49bb-AE24-CF682282E08D}"=-
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached]
+"{A929C4CE-FD36-4270-B4F5-34ECAC5BD63C} {000214E4-0000-0000-C000-000000000046} 0xFFFF"=-
+"{E97DEC16-A50D-49BB-AE24-CF682282E08D} {000214E4-0000-0000-C000-000000000046} 0xFFFF"=-
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{A929C4CE-FD36-4270-B4F5-34ECAC5BD63C}]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{A929C4CE-FD36-4270-B4F5-34ECAC5BD63C}]
+
+[-HKEY_CLASSES_ROOT\batfile\shellex\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\CLSID\{E97DEC16-A50D-49bb-AE24-CF682282E08D}]
+
+[-HKEY_CLASSES_ROOT\cmdfile\shellex\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\comfile\shellex\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\JSEFile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\JSFile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\mscfile\shellex\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\Nv3DAppShExt.OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\Nv3DAppShExt.OpenGLShExt.1]
+
+[-HKEY_CLASSES_ROOT\VBEFile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\VBSFile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\WSFFile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_CLASSES_ROOT\WSHFile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\batfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\cmdfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\comfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\exefile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\jsefile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\jsfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\lnkfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\mscfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\vbefile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\vbsfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\wsffile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\wshfile\ShellEx\ContextMenuHandlers\OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\mscfile\ShellEx\ContextMenuHandlers]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\mscfile\ShellEx\ContextMenuHandlers]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Nv3DAppShExt.OpenGLShExt]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\Nv3DAppShExt.OpenGLShExt.1]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\PnpResources\Registry\HKCR\CLSID\{E97DEC16-A50D-49bb-AE24-CF682282E08D}]
