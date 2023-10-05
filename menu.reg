@@ -1,83 +1,119 @@
 Windows Registry Editor Version 5.00
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\http]
+[-HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\Compatibility]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\https]
+[-HKEY_CLASSES_ROOT\Msi.Package\shellex\ContextMenuHandlers\Compatibility]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\microsoft-edge]
+[-HKEY_CLASSES_ROOT\batfile\shellex\ContextMenuHandlers\Compatibility]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\microsoft-edge-holographic]
+[-HKEY_CLASSES_ROOT\cmdfile\shellex\ContextMenuHandlers\Compatibility]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Packages\Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe]
+[-HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\EPP]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Packages\Microsoft.MicrosoftEdgeDevToolsClient_1000.19041.1023.0_neutral_neutral_8wekyb3d8bbwe]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\EPP]
 
-[-HKEY_CURRENT_USER\SOFTWARE\Classes\microsoft-edge]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\EPP]
 
-[-HKEY_CURRENT_USER\SOFTWARE\Classes\microsoft-edge-holographic]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\{90AA3A4E-1CBA-4233-B8BB-535773D48449}]
 
-[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\microsoft-edge]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}]
 
-[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\microsoft-edge-holographic]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\Open With EncryptionMenu]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ApplicationAssociationToasts]
-"AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y_microsoft-edge"=-
-"AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv_microsoft-edge-holographic"=-
+[-HKEY_CLASSES_ROOT\Drive\shell\encrypt-bde]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\ProgID\AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv]
+[-HKEY_CLASSES_ROOT\Drive\-shell\encrypt-bde-elev]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv]
+[-HKEY_CLASSES_ROOT\.contact\ShellNew\MenuText]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\ProgID\AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y]
+[-HKEY_CLASSES_ROOT\.contact\ShellNew\iconpath]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y]
+[-HKEY_CLASSES_ROOT\.contact\ShellNew\command]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.fileTypeAssociation\.htm]
+[-HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\{fbeb8a05-beee-4442-804e-409d6c4515e9}]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.fileTypeAssociation\.html]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\ModernSharing]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\Sharing]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppX90nv6nhay5n6a98fnetv7tpk64pp35es]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\Sharing]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.fileTypeAssociation\.pdf]
+[-HKEY_CLASSES_ROOT\Directory\background\shellex\ContextMenuHandlers\Sharing]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723]
+[-HKEY_CLASSES_ROOT\Drive\shellex\ContextMenuHandlers\Sharing]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.fileTypeAssociation\.svg]
+[-HKEY_CLASSES_ROOT\LibraryFolder\background\shellex\ContextMenuHandlers\Sharing]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\Offline Files]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d]
+[-HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\Offline Files]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppXe862j7twqs4aww05211jaakwxyfjx4da]
+[-HKEY_CLASSES_ROOT\Folder\shell\pintohome]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\ProgIDs\AppXq0fevzme2pys62n3e0fbqa7peapykr8v]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\ FileSyncEx]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Data\26]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\FileSyncEx]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Data\27]
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\WorkFolders]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\Name\microsoft-edge]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\WorkFolders]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\Name\microsoft-edge-holographic]
+[-HKEY_CLASSES_ROOT\Directory\background\shellex\ContextMenuHandlers\WorkFolders]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\NameAndExtension\microsoft-edge^8a]
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\LaunchWorkfoldersControl]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\NameAndExtension\microsoft-edge-holographic^8b]
+[-HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\Library Location]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\ms-xbl-3d8b930f]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\EncryptionMenu]
 
-[-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\read\AppXe862j7twqs4aww05211jaakwxyfjx4da]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
 
-[-HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\MrtCache\C:%5CWindows%5CSystemApps%5CMicrosoft.MicrosoftEdge_8wekyb3d8bbwe%5Cresources.pri]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shellex\ContextMenuHandlers\PintoStartScreen]
 
-[-HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\MrtCache\C:%5CWindows%5CSystemApps%5CMicrosoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe%5Cresources.pri]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shell\OfflineFilesLaunchSyncCenter]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Package\Index\PackageFullName\Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Package\Index\PackageFullName\Microsoft.MicrosoftEdgeDevToolsClient_1000.19041.1023.0_neutral_neutral_8wekyb3d8bbwe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\InboxApplications\Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shellex\ContextMenuHandlers\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8}]
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\InboxApplications\Microsoft.MicrosoftEdgeDevToolsClient_10.0.19041.1023_neutral__8wekyb3d8bbwe]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\{596AB062-B4D2-4215-9F74-E9109B0A8153}]
+
+[-HKEY_CLASSES_ROOT\Applications\wmplayer.exe]
+
+[-HKEY_CLASSES_ROOT\Applications\wordpad.exe]
+
+[-HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\PintoStartScreen]
+
+[-HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\ FileSyncEx]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\audio\shellex\ContextMenuHandlers\PlayTo]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\audio\shell\Play]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\audio\shell\Enqueue]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\cmd]
+"HideBasedOnVelocityId"=-
+"ShowBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\Powershell]
+"ShowBasedOnVelocityId"=-
+"HideBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\cmd]
+"HideBasedOnVelocityId"=-
+"ShowBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Powershell]
+"ShowBasedOnVelocityId"=-
+"HideBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shell\cmd]
+"HideBasedOnVelocityId"=-
+"ShowBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Drive\shell\Powershell]
+"ShowBasedOnVelocityId"=-
+"HideBasedOnVelocityId"=dword:00639bc8
