@@ -1,5 +1,38 @@
 Windows Registry Editor Version 5.00
 
+[-HKEY_CLASSES_ROOT\AppUserModelId\Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge]
+
+[-HKEY_CLASSES_ROOT\AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9]
+
+[-HKEY_CLASSES_ROOT\AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723]
+
+[-HKEY_CLASSES_ROOT\AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs]
+
+[-HKEY_CLASSES_ROOT\AppXq0fevzme2pys62n3e0fbqa7peapykr8v]
+
+[-HKEY_CLASSES_ROOT\AppX90nv6nhay5n6a98fnetv7tpk64pp35es]
+
+[-HKEY_CLASSES_ROOT\AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PolicyCache\Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PolicyCache\Microsoft.MicrosoftEdge_8wekyb3d8bbwe]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PolicyCache\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\Extensions\ContractId\Windows.Protocol\PackageId\Microsoft.MicrosoftEdge_44.19041.1266.0_neutral__8wekyb3d8bbwe]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Phone\ShellUI\WindowSizing\Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView]
+"Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge"=-
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\PackageFamily\Index\PackageFamilyName\Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\PackageFamily\Index\PackageFamilyName\Microsoft.MicrosoftEdge_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\PackageFamily\Index\PackageFamilyName\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe]
+
 [-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\http]
 
 [-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\https]
@@ -12,6 +45,26 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Packages\Microsoft.MicrosoftEdgeDevToolsClient_1000.19041.1023.0_neutral_neutral_8wekyb3d8bbwe]
 
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\InboxApplications\Microsoft.MicrosoftEdge_44.19041.3570.0_neutral__8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\InboxApplications\Microsoft.MicrosoftEdgeDevToolsClient_10.0.19041.3570_neutral__8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Config\Microsoft.MicrosoftEdge_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Deprovisioned\Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\Capabilities\microphone\Apps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\Capabilities\userAccountInformation\Apps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\Capabilities\webcam\Apps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\S-1-5-21-514733316-739445338-2922883321-1001\Microsoft.MicrosoftEdge.Stable_92.0.902.67_neutral__8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\S-1-5-21-514733316-739445338-2922883321-1001\Microsoft.MicrosoftEdge_44.19041.3570.0_neutral__8wekyb3d8bbwe]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\S-1-5-21-514733316-739445338-2922883321-1001\Microsoft.MicrosoftEdgeDevToolsClient_10.0.19041.3570_neutral__8wekyb3d8bbwe]
+
 [-HKEY_CURRENT_USER\SOFTWARE\Classes\microsoft-edge]
 
 [-HKEY_CURRENT_USER\SOFTWARE\Classes\microsoft-edge-holographic]
@@ -20,9 +73,58 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\microsoft-edge-holographic]
 
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\https]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\ftp]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\AppXq0fevzme2pys62n3e0fbqa7peapykr8v]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\AppX90nv6nhay5n6a98fnetv7tpk64pp35es]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d]
+
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ApplicationAssociationToasts]
 "AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y_microsoft-edge"=-
 "AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv_microsoft-edge-holographic"=-
+"MSEdgeHTM_http"=-
+"MSEdgeHTM_https"=-
+"MSEdgeHTM_read"=-
+"MSEdgeHTM_microsoft-edge-holographic"=-
+"MSEdgeHTM_ms-xbl-3d8b930f"=-
+"MSEdgeHTM_.htm"=-
+"MSEdgeHTM_.html"=-
+"MSEdgeHTM_.svg"=-
+"MSEdgePDF_.pdf"=-
+"MSEdgeMHT_.mht"=-
+"MSEdgeMHT_.mhtml"=-
+"AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.htm"=-
+"AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.html"=-
+"AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723_.pdf"=-
+"AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs_.svg"=-
+"AppXq0fevzme2pys62n3e0fbqa7peapykr8v_http"=-
+"AppX90nv6nhay5n6a98fnetv7tpk64pp35es_https"=-
+"AppXe862j7twqs4aww05211jaakwxyfjx4da_read"=-
+"AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d_ms-xbl-3d8b930f"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ApplicationAssociationToasts]
+"AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y_microsoft-edge"=-
+
+[HKEY_CLASSES_ROOT\.mht\OpenWithProgIds]
+"MSEdgeMHT"=-
+
+[HKEY_CLASSES_ROOT\.mhtml\OpenWithProgIds]
+"MSEdgeMHT"=-
+
+[HKEY_CLASSES_ROOT\.pdf\OpenWithProgids]
+"MSEdgePDF"=-
 
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel\StateRepository\Cache\Protocol\Index\ProgID\AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv]
 

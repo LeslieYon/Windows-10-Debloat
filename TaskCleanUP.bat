@@ -22,6 +22,12 @@ schtasks /Delete /TN "\Microsoft\Windows\Application Experience\Microsoft Compat
 schtasks /Delete /TN "\Microsoft\Windows\Application Experience\ProgramDataUpdater" /F
 schtasks /Delete /TN "\Microsoft\Windows\Application Experience\StartupAppTask" /F
 
+schtasks /Delete /TN "\Microsoft\Windows\AppxDeploymentClient\UCPD velocity" /F
+
+Schtasks /change /disable /tn "\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup"
+
+Schtasks /change /disable /tn "\Microsoft\Windows\AppListBackup\BackupNonMaintenance"
+
 schtasks /Delete /TN "\Microsoft\Windows\Autochk\Proxy" /F
 schtasks /Delete /TN "\Microsoft\Windows\Autochk" /F
 
